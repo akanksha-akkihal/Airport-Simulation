@@ -10,3 +10,11 @@ refused.
 Runway-1 is for landing , Runway-2 is for take-off
 Runway-3 is for excess landing or excess takeoff when
 landing queue is empty.
+
+MAKEFILE Commands
+
+Command to execute on windows:
+mingw32-make -f filename.mk
+
+Command to execute on ubuntu:
+make -f filename.mk
